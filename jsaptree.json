@@ -1,8 +1,8 @@
 {
-  "pajaovr": "0.0",
-  "pajawnm": "0",
-  "pajaawrt": "0",
-  "pajawlin": "No",
+  "pajaovr": "1.0",
+  "pajawnm": "1",
+  "pajaawrt": "1",
+  "pajawlin": "https://github.com/Pucos/account1/raw/master/app-release.apk",
   "pajawrls": [ 
     "- Améliorations apportées",
     "- Nouveau support !",
