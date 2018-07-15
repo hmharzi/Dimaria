@@ -1,9 +1,9 @@
 {
-  "pajaovr": "1.0",
-  "pajawnm": "1",
-  "pajaawrt": "1",
-  "pajawlin": "https://github.com/Pucos/account1/raw/master/app-release.apk",
-  "pajawrls": [ 
+  "Namevrson": "1.0",
+  "Codeverson": "1",
+  "ratosCdi": "1",
+  "Appo": "https://github.com/Pucos/account1/raw/master/app-release.apk",
+  "release": [ 
     "- Améliorations apportées",
     "- Nouveau support !",
     "- Corrections de quelques bogues"
